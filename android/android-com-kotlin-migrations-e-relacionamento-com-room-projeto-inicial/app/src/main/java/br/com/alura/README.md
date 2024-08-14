@@ -1,1 +1,1 @@
-### Ponto inicial aula 02 modulo 1 (Android com Kotlin: Migration e relacionamento com o Room) Destruindo Migration com Fallback
+### Ponto inicial aula 01 modulo 2 (Android com Kotlin: Migration e relacionamento com o Room) Revertendo a Migration
