@@ -1,1 +1,1 @@
-### Ponto inicial aula 01 modulo 2 (Android com Kotlin: Migration e relacionamento com o Room) Revertendo a Migration
+### Ponto inicial aula 02 modulo 2 (Android com Kotlin: Migration e relacionamento com o Room) Implementando a primeira Migration
